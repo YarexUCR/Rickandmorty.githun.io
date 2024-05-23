@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RickandmortyReactYarexEspinoza.github.io/build/static/css/main.44b773d5.css",
+    "main.js": "/RickandmortyReactYarexEspinoza.github.io/build/static/js/main.479e534f.js",
+    "static/js/787.ce5141df.chunk.js": "/RickandmortyReactYarexEspinoza.github.io/build/static/js/787.ce5141df.chunk.js",
+    "static/media/rick-morty.png": "/RickandmortyReactYarexEspinoza.github.io/build/static/media/rick-morty.ed9fa0be01b38da56af4.png",
+    "index.html": "/RickandmortyReactYarexEspinoza.github.io/build/index.html",
+    "main.44b773d5.css.map": "/RickandmortyReactYarexEspinoza.github.io/build/static/css/main.44b773d5.css.map",
+    "main.479e534f.js.map": "/RickandmortyReactYarexEspinoza.github.io/build/static/js/main.479e534f.js.map",
+    "787.ce5141df.chunk.js.map": "/RickandmortyReactYarexEspinoza.github.io/build/static/js/787.ce5141df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44b773d5.css",
+    "static/js/main.479e534f.js"
+  ]
+}
